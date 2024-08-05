@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Dosis:wght@200..800&display=swap');
+
+*{
+    font-family: "Comfortaa", sans-serif;
+    font-size: large;
+    transition-duration: 1s;
+    color: #eee;
+}
+
+h1{
+    text-align: center;
+    font-size: 150%;
+    font-weight: 800;
+}
+
+#values{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+#imperial{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+}
+
+.comparison{
+    width: 45%;
+    padding: 1%;
+    margin-right: 0.2%;
+    background-color: #111;
+    border: 1px solid #333;
+    border-radius: 4px;
+}
+.comparison:hover{
+    background-color: #222;
+}
+
+hr {
+    width: 80%;
+    border-width: 1px;
+    border-color: black;
+}
+
+input, select{
+    background-color: #ffffff33;
+    outline: none;
+    border: none;
+}
+
+option{
+    color: #000;
+}
+
+html{
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    background-color: #212529;
+}
+
+footer{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    text-align: left;
+}
