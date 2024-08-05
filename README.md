@@ -1,4 +1,4 @@
-[Website Icon from FontAwesome](https://fontawesome.com/icons/burger)
+[Ruler by Fauzi Ismail from Noun Project (CC BY 3.0)](https://thenounproject.com/browse/icons/term/ruler/)
 
 Check the js file for all the sources
 
